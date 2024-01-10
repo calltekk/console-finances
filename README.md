@@ -6,6 +6,8 @@ The JavaScript code in index.js calculates the following financial metrics:
 - Average Change: The average of the changes in Profit/Losses over the entire period.
 - Greatest Increase in Profits/Losses: The date and amount of the greatest increase.
 - Greatest Decrease in Profits/Losses: The date and amount of the greatest decrease.
+## Deployed Site
+https://calltekk.github.io/console-finances/
 ## Features
 1. User-friendly interface.
 2. Clean JavaScript-powered code.
